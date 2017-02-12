@@ -11,7 +11,7 @@ published: true
 inline_featured_image:
   - "0"
 avada_post_views_count:
-  - "7"
+  - "9"
 scc_share_count_google+:
   - "0"
 scc_share_count_facebook:
@@ -26,6 +26,8 @@ scc_share_count_total:
   - "0"
 slide_template:
   - default
+fusion_builder_status:
+  - ""
 pyre_show_first_featured_image:
   - 'no'
 pyre_fimg_width:
@@ -158,8 +160,6 @@ pyre_page_title_bar_bg_full:
   - default
 pyre_page_title_bg_parallax:
   - default
-fusion_builder_status:
-  - ""
 sbg_selected_sidebar:
   - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_replacement:
