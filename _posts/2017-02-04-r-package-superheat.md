@@ -160,6 +160,8 @@ scc_share_count_crawldate:
   - "-1"
 scc_share_count_total:
   - "-1"
+swp_cache_timestamp:
+  - "413019"
 sbg_selected_sidebar:
   - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_replacement:
@@ -168,8 +170,6 @@ sbg_selected_sidebar_2:
   - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_2_replacement:
   - 'a:1:{i:0;s:0:"";}'
-swp_cache_timestamp:
-  - "413019"
 ---
 <div class="container-fluid main-container">
 <div id="header" class="fluid-row">
