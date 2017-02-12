@@ -9,6 +9,30 @@ permalink: 'http://the-r.kr/2017/02/11/r-%ed%8c%a8%ed%82%a4%ec%a7%80-%ec%86%8c%e
 published: true
 inline_featured_image:
   - "0"
+avada_post_views_count:
+  - "7"
+scc_share_count_google+:
+  - "0"
+scc_share_count_facebook:
+  - "-1"
+scc_share_count_pocket:
+  - "0"
+scc_share_count_hatebu:
+  - "0"
+scc_share_count_crawldate:
+  - 2017/02/12 12:45:38
+scc_share_count_total:
+  - "0"
+sbg_selected_sidebar:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+sbg_selected_sidebar_2:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_2_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+slide_template:
+  - default
 ---
 <a href="http://www.data-imaginist.com/2017/ggraph-introduction-nodes/"><img class="alignnone size-full" src="http://the-r.kr/wp-content/uploads/2017/02/unnamed-chunk-6-1.png" alt="" /></a>
 
