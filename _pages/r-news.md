@@ -1,11 +1,11 @@
 ---
 ID: 19
-post_title: 빅데이터 뉴스
+post_title: R 뉴스
 author: admin
 post_date: 2015-10-08 23:19:18
 post_excerpt: ""
 layout: page
-permalink: http://the-r.kr/forums/
+permalink: http://the-r.kr/r-news/
 published: true
 fusion_builder_status:
   - active
@@ -27,14 +27,6 @@ slide_template:
   - default
 inline_featured_image:
   - "0"
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:0:"";}'
-sbg_selected_sidebar_2:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_2_replacement:
-  - 'a:1:{i:0;s:0:"";}'
 pyre_slider_type:
   - 'no'
 pyre_slider:
@@ -141,4 +133,24 @@ pyre_page_title_bar_bg_full:
   - default
 pyre_page_title_bg_parallax:
   - default
+scc_share_count_google+:
+  - "0"
+scc_share_count_facebook:
+  - "-1"
+scc_share_count_pocket:
+  - "0"
+scc_share_count_hatebu:
+  - "0"
+scc_share_count_crawldate:
+  - 2017/03/01 22:55:50
+scc_share_count_total:
+  - "0"
+sbg_selected_sidebar:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+sbg_selected_sidebar_2:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_2_replacement:
+  - 'a:1:{i:0;s:0:"";}'
 ---
