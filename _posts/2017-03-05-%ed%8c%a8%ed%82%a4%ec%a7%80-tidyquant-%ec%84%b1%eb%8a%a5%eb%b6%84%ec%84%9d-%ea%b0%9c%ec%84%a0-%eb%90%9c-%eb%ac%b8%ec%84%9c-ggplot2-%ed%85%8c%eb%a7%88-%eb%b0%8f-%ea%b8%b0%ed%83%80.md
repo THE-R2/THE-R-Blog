@@ -9,6 +9,30 @@ permalink: 'http://the-r.kr/2017/03/05/%ed%8c%a8%ed%82%a4%ec%a7%80-tidyquant-%ec
 published: true
 inline_featured_image:
   - "0"
+avada_post_views_count:
+  - "2"
+scc_share_count_google+:
+  - "0"
+scc_share_count_facebook:
+  - "-1"
+scc_share_count_pocket:
+  - "0"
+scc_share_count_hatebu:
+  - "0"
+scc_share_count_crawldate:
+  - 2017/03/05 10:57:58
+scc_share_count_total:
+  - "0"
+sbg_selected_sidebar:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+sbg_selected_sidebar_2:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_2_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+slide_template:
+  - default
 ---
 I’m excited to announce the release of <code class="highlighter-rouge">tidyquant</code> version 0.4.0!!! The release is yet again sizable. It includes <strong>integration with the <code class="highlighter-rouge">PerformanceAnalytics</code> package</strong>, which now enables full financial analyses to be performed without ever leaving the “tidyverse” (i.e. <strong>with DATA FRAMES</strong>). The integration includes the ability to perform performance analysis and portfolio attribution at scale (i.e. with many stocks or many portfolios at once)! But wait there’s more… In addition to an introduction vignette, we created <strong>five (yes, five!) topic-specific vignettes</strong> designed to reduce the learning curve for <em>financial data scientists</em>. We also have <strong>new <code class="highlighter-rouge">ggplot2</code> themes</strong> to assist with creating beautiful and meaningful financial charts. We included <code class="highlighter-rouge">tq_get</code> support for <strong>“compound getters”</strong> so multiple data sources can be brought into a nested data frame all at once. Last, we have added new <code class="highlighter-rouge">tq_index()</code> and <code class="highlighter-rouge">tq_exchange()</code> functions to make collecting stock data with <code class="highlighter-rouge">tq_get</code> even easier. I’ll briefly touch on several of the updates. The package is open source, and you can view the code on the <a href="https://github.com/mdancho84/tidyquant" target="_blank" rel="nofollow">tidyquant github page</a>.
 <h1 id="table-of-contents">Table of Contents</h1>
