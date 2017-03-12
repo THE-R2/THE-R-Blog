@@ -22,7 +22,7 @@ scc_share_count_pocket:
 scc_share_count_hatebu:
   - "0"
 scc_share_count_crawldate:
-  - 2017/03/12 15:36:17
+  - 2017/03/12 22:17:18
 scc_share_count_total:
   - "0"
 swp_cache_timestamp:
