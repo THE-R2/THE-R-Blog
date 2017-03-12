@@ -56,7 +56,7 @@ pyre_slider_type:
 pyre_slider:
   - "0"
 pyre_wooslider:
-  - rlearning-page
+  - r-learning-page
 pyre_revslider:
   - "0"
 pyre_elasticslider:
