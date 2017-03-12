@@ -13,20 +13,12 @@ slide_template:
   - default
 fusion_builder_status:
   - active
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:12:"Blog Sidebar";}'
-sbg_selected_sidebar_2:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_2_replacement:
-  - 'a:1:{i:0;s:0:"";}'
 pyre_slider_type:
   - flex
 pyre_slider:
   - "0"
 pyre_wooslider:
-  - "0"
+  - rpackage-page
 pyre_revslider:
   - "0"
 pyre_elasticslider:
@@ -92,7 +84,7 @@ pyre_wide_page_bg_full:
 pyre_wide_page_bg_repeat:
   - repeat
 pyre_page_title:
-  - 'yes'
+  - 'no'
 pyre_page_title_breadcrumbs_search_bar:
   - default
 pyre_page_title_text:
@@ -127,5 +119,27 @@ pyre_page_title_bar_bg_full:
   - default
 pyre_page_title_bg_parallax:
   - default
+scc_share_count_google+:
+  - "0"
+scc_share_count_facebook:
+  - "-1"
+scc_share_count_pocket:
+  - "0"
+scc_share_count_hatebu:
+  - "0"
+scc_share_count_crawldate:
+  - 2017/03/12 15:36:17
+scc_share_count_total:
+  - "0"
+swp_cache_timestamp:
+  - "413436"
+sbg_selected_sidebar:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+sbg_selected_sidebar_2:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_2_replacement:
+  - 'a:1:{i:0;s:0:"";}'
 ---
 [fusion_builder_container hundred_percent="yes" overflow="visible"][fusion_builder_row][fusion_builder_column type="1_1" layout="1_1" background_position="left top" background_color="" border_size="" border_color="" border_style="solid" spacing="yes" background_image="" background_repeat="no-repeat" padding="" margin_top="0px" margin_bottom="0px" class="" id="" animation_type="" animation_speed="0.3" animation_direction="left" hide_on_mobile="no" center_content="no" min_height="none" last="no" hover_type="none" link="" border_position="all"][fusion_blog layout="medium" blog_grid_columns="3" blog_grid_column_spacing="40" cat_slug="r-package" orderby="date" order="DESC" thumbnail="yes" title="yes" title_link="yes" excerpt="yes" excerpt_length="35" strip_html="yes" meta_all="yes" meta_author="yes" meta_categories="yes" meta_comments="no" meta_date="yes" meta_link="yes" meta_tags="yes" paging="yes" scrolling="pagination" hide_on_mobile="small-visibility,medium-visibility,large-visibility" /][fusion_separator style_type="none" top_margin="20px" bottom_margin="20px" alignment="center" /][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container]
