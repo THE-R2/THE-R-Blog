@@ -136,7 +136,7 @@ pyre_page_title_bg_parallax:
 sbg_selected_sidebar:
   - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:0:"";}'
+  - 'a:1:{i:0;s:12:"Blog Sidebar";}'
 sbg_selected_sidebar_2:
   - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_2_replacement:
