@@ -11,6 +11,32 @@ permalink: 'http://the-r.kr/2017/02/25/%eb%b9%84%ec%a3%bc%ec%96%bc-%ec%8a%a4%ed%
 published: true
 inline_featured_image:
   - "0"
+avada_post_views_count:
+  - "23"
+swp_cache_timestamp:
+  - "413331"
+scc_share_count_google+:
+  - "0"
+scc_share_count_facebook:
+  - "-1"
+scc_share_count_pocket:
+  - "0"
+scc_share_count_hatebu:
+  - "0"
+scc_share_count_crawldate:
+  - 2017/03/12 11:45:57
+scc_share_count_total:
+  - "0"
+sbg_selected_sidebar:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+sbg_selected_sidebar_2:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_2_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+slide_template:
+  - default
 ---
 After more than a year in preview <a href="http://microsoft.github.io/RTVS-docs/" target="_blank" rel="nofollow">R Tools for Visual Studio</a>, the open-source extension to the Visual Studio IDE for R programming, is nearing its official release. RTVS Release Candidate 1 is <a href="http://microsoft.github.io/RTVS-docs/installation.html" target="_blank" rel="nofollow">now available for download</a>, giving you the opportunity to try out the new features ahead of the official announcement.
 
