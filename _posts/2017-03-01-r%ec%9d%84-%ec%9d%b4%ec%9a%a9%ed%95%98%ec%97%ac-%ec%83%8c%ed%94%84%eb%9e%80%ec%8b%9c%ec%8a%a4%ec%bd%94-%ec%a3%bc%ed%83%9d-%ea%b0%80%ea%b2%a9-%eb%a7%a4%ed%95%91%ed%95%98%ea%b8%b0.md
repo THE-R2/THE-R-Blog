@@ -11,6 +11,32 @@ permalink: 'http://the-r.kr/2017/03/01/r%ec%9d%84-%ec%9d%b4%ec%9a%a9%ed%95%98%ec
 published: true
 inline_featured_image:
   - "0"
+avada_post_views_count:
+  - "22"
+swp_cache_timestamp:
+  - "413435"
+scc_share_count_google+:
+  - "0"
+scc_share_count_facebook:
+  - "-1"
+scc_share_count_pocket:
+  - "0"
+scc_share_count_hatebu:
+  - "0"
+scc_share_count_crawldate:
+  - 2017/03/12 11:06:03
+scc_share_count_total:
+  - "0"
+sbg_selected_sidebar:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+sbg_selected_sidebar_2:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_2_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+slide_template:
+  - default
 ---
 <blockquote>At the intersection of data science &amp; public policy</blockquote>
 <strong>Authors: Ken Steif &amp; Simon Kassel</strong>
