@@ -11,7 +11,7 @@ published: true
 inline_featured_image:
   - "0"
 avada_post_views_count:
-  - "9"
+  - "20"
 scc_share_count_google+:
   - "0"
 scc_share_count_facebook:
@@ -21,7 +21,7 @@ scc_share_count_pocket:
 scc_share_count_hatebu:
   - "0"
 scc_share_count_crawldate:
-  - 2017/02/12 12:45:38
+  - 2017/03/12 12:26:57
 scc_share_count_total:
   - "0"
 slide_template:
@@ -160,6 +160,8 @@ pyre_page_title_bar_bg_full:
   - default
 pyre_page_title_bg_parallax:
   - default
+swp_cache_timestamp:
+  - "413126"
 sbg_selected_sidebar:
   - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_replacement:
