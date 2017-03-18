@@ -25,14 +25,8 @@ scc_share_count_total:
   - "0"
 slide_template:
   - default
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:0:"";}'
-sbg_selected_sidebar_2:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_2_replacement:
-  - 'a:1:{i:0;s:0:"";}'
+fusion_builder_status:
+  - ""
 pyre_show_first_featured_image:
   - 'no'
 pyre_fimg_width:
@@ -165,8 +159,14 @@ pyre_page_title_bar_bg_full:
   - default
 pyre_page_title_bg_parallax:
   - default
-fusion_builder_status:
-  - ""
+sbg_selected_sidebar:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+sbg_selected_sidebar_2:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_2_replacement:
+  - 'a:1:{i:0;s:0:"";}'
 ---
 온라인 강의는 한국에선 꽤 익숙하지만 불과 몇 년 전까지 해외에선 다소 생소한 개념이었다. 해외 국가들은 사교육 시장이 많이 발달되지 않았을 뿐더러 인프라 환경도 잘 구축되지 않았기 때문이다. 하지만 2010년 온라인 공개 수업(<span class="word_dic en">Massive</span> <span class="word_dic en">Open</span> <span class="word_dic en">Online</span><span class="word_dic en">Course</span>, <a href="http://navercast.naver.com/contents.nhn?rid=122&amp;contents_id=97536" target="_blank">MOOC(무크)</a>)이 등장한 이후부터 전세계적으로 온라인 교육 시장이 새롭게 각광받고 있다. 그 중 <a href="http://www.coursera.org/" target="_blank">코세라</a>(<span class="word_dic en">coursera</span>)는 단연 <span class="word_dic en">MOOC</span>를 부흥시킨 선두주자다. 현재 다양한 실험과 대학과의 협업으로 <span class="word_dic en">MOOC</span> 산업을 발전시키고 있다.
 <div class="t_ptype">
