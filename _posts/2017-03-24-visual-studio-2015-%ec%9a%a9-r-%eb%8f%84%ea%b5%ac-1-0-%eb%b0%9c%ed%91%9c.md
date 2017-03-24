@@ -11,6 +11,18 @@ permalink: 'http://the-r.kr/2017/03/24/visual-studio-2015-%ec%9a%a9-r-%eb%8f%84%
 published: true
 inline_featured_image:
   - "0"
+avada_post_views_count:
+  - "0"
+sbg_selected_sidebar:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+sbg_selected_sidebar_2:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_2_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+slide_template:
+  - default
 ---
 I’m delighted to announce the general availability of <a href="http://microsoft.github.io/RTVS-docs/" target="_blank" rel="nofollow">R Tools 1.0 for Visual Studio 2015 (RTVS)</a>. This release will be shortly followed by R Tools 1.0 for Visual Studio 2017 in early May.
 
@@ -33,13 +45,13 @@ RTVS builds on Visual Studio, which means you get numerous features for free: fr
  	<li><a href="http://microsoft.github.io/RTVS-docs/extensions.html" target="_blank" rel="nofollow">Extensions</a> – over 7,000 Extensions covering a wide spectrum from Data to Languages to Productivity.</li>
  	<li><a href="http://microsoft.github.io/RTVS-docs/help.html" target="_blank" rel="nofollow">Help</a> – use ? and ?? to view R documentation within Visual Studio.</li>
 </ul>
-<a class="asset-img-link" href="http://revolution-computing.typepad.com/.a/6a010534b1db25970b01bb0986bf01970d-pi" target="_blank" rel="nofollow"><img class="asset  asset-image at-xid-6a010534b1db25970b01bb0986bf01970d image-full img-responsive" title="RTVS1" src="http://revolution-computing.typepad.com/.a/6a010534b1db25970b01bb0986bf01970d-800wi" alt="RTVS1" border="0" data-lazy-loaded="true" /></a>
+<a class="asset-img-link" href="http://revolution-computing.typepad.com/.a/6a010534b1db25970b01bb0986bf01970d-pi" target="_blank" rel="nofollow"><img class="asset asset-image at-xid-6a010534b1db25970b01bb0986bf01970d image-full img-responsive" title="RTVS1" src="http://revolution-computing.typepad.com/.a/6a010534b1db25970b01bb0986bf01970d-800wi" alt="RTVS1" border="0" data-lazy-loaded="true" /></a>
 <h2>It’s Enterprise-Grade</h2>
 RTVS includes various features that address the needs of individual as well as Data Science teams, for example:
 <h3>SQL Server 2016</h3>
 RTVS integrates with <a href="https://msdn.microsoft.com/en-us/library/mt604845.aspx" target="_blank" rel="nofollow">SQL Server 2016 R Services</a> and <a href="https://msdn.microsoft.com/en-us/mt186501.aspx" target="_blank" rel="nofollow">SQL Server Tools for Visual Studio 2015</a>. These separate downloads enhance RTVS with support for syntax coloring and Intellisense, <a href="http://microsoft.github.io/RTVS-docs/sqlserver.html" target="_blank" rel="nofollow">interactive queries</a>, and deployment of <a href="http://microsoft.github.io/RTVS-docs/sqlserver.html" target="_blank" rel="nofollow">stored procedures</a> directly from Visual Studio.
 
-<a class="asset-img-link" href="http://revolution-computing.typepad.com/.a/6a010534b1db25970b01bb0986bf14970d-pi" target="_blank" rel="nofollow"><img class="asset  asset-image at-xid-6a010534b1db25970b01bb0986bf14970d image-full img-responsive" title="RTVS2" src="http://revolution-computing.typepad.com/.a/6a010534b1db25970b01bb0986bf14970d-800wi" alt="RTVS2" border="0" data-lazy-loaded="true" /></a>
+<a class="asset-img-link" href="http://revolution-computing.typepad.com/.a/6a010534b1db25970b01bb0986bf14970d-pi" target="_blank" rel="nofollow"><img class="asset asset-image at-xid-6a010534b1db25970b01bb0986bf14970d image-full img-responsive" title="RTVS2" src="http://revolution-computing.typepad.com/.a/6a010534b1db25970b01bb0986bf14970d-800wi" alt="RTVS2" border="0" data-lazy-loaded="true" /></a>
 <h3>Microsoft R Client</h3>
 Use the stock CRAN R interpreter, or the enhanced Microsoft R Client and its <a href="https://msdn.microsoft.com/en-us/microsoft-r/scaler-getting-started" target="_blank" rel="nofollow">ScaleR</a> functions that support multi-core and cluster computing for practicing data science at scale.
 <h3>Visual Studio Team Services</h3>
