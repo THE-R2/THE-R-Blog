@@ -9,6 +9,164 @@ permalink: 'http://the-r.kr/2017/03/24/ggplot2-%eb%a5%bc-%ec%99%9c-%ec%82%ac%ec%
 published: true
 inline_featured_image:
   - "0"
+avada_post_views_count:
+  - "1"
+scc_share_count_google+:
+  - "0"
+scc_share_count_facebook:
+  - "-1"
+scc_share_count_pocket:
+  - "0"
+scc_share_count_hatebu:
+  - "0"
+scc_share_count_crawldate:
+  - 2017/03/24 13:27:29
+scc_share_count_total:
+  - "0"
+slide_template:
+  - default
+sbg_selected_sidebar:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+sbg_selected_sidebar_2:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_2_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+pyre_show_first_featured_image:
+  - 'no'
+pyre_fimg_width:
+  - ""
+pyre_fimg_height:
+  - ""
+pyre_portfolio_width_100:
+  - default
+pyre_video:
+  - ""
+pyre_image_rollover_icons:
+  - default
+pyre_link_icon_url:
+  - ""
+pyre_post_links_target:
+  - 'no'
+pyre_related_posts:
+  - default
+pyre_share_box:
+  - default
+pyre_post_pagination:
+  - default
+pyre_author_info:
+  - default
+pyre_post_meta:
+  - default
+pyre_post_comments:
+  - default
+pyre_main_top_padding:
+  - ""
+pyre_main_bottom_padding:
+  - ""
+pyre_hundredp_padding:
+  - ""
+pyre_slider_type:
+  - 'no'
+pyre_slider:
+  - "0"
+pyre_wooslider:
+  - "0"
+pyre_revslider:
+  - "0"
+pyre_elasticslider:
+  - "0"
+pyre_slider_position:
+  - default
+pyre_avada_rev_styles:
+  - default
+pyre_fallback:
+  - ""
+pyre_demo_slider:
+  - ""
+pyre_display_header:
+  - 'yes'
+pyre_header_100_width:
+  - default
+pyre_header_bg_color:
+  - ""
+pyre_header_bg_opacity:
+  - ""
+pyre_header_bg:
+  - ""
+pyre_header_bg_full:
+  - 'no'
+pyre_header_bg_repeat:
+  - repeat
+pyre_displayed_menu:
+  - default
+pyre_display_footer:
+  - default
+pyre_display_copyright:
+  - default
+pyre_footer_100_width:
+  - default
+pyre_sidebar_position:
+  - default
+pyre_sidebar_bg_color:
+  - ""
+pyre_page_bg_layout:
+  - default
+pyre_page_bg_color:
+  - ""
+pyre_page_bg:
+  - ""
+pyre_page_bg_full:
+  - 'no'
+pyre_page_bg_repeat:
+  - repeat
+pyre_wide_page_bg_color:
+  - ""
+pyre_wide_page_bg:
+  - ""
+pyre_wide_page_bg_full:
+  - 'no'
+pyre_wide_page_bg_repeat:
+  - repeat
+pyre_page_title:
+  - default
+pyre_page_title_breadcrumbs_search_bar:
+  - default
+pyre_page_title_text:
+  - default
+pyre_page_title_text_alignment:
+  - default
+pyre_page_title_custom_text:
+  - ""
+pyre_page_title_text_size:
+  - ""
+pyre_page_title_custom_subheader:
+  - ""
+pyre_page_title_custom_subheader_text_size:
+  - ""
+pyre_page_title_font_color:
+  - ""
+pyre_page_title_100_width:
+  - default
+pyre_page_title_height:
+  - ""
+pyre_page_title_mobile_height:
+  - ""
+pyre_page_title_bar_bg_color:
+  - ""
+pyre_page_title_bar_borders_color:
+  - ""
+pyre_page_title_bar_bg:
+  - ""
+pyre_page_title_bar_bg_retina:
+  - ""
+pyre_page_title_bar_bg_full:
+  - default
+pyre_page_title_bg_parallax:
+  - default
+fusion_builder_status:
+  - ""
 ---
 많은 R 사용자들은 시각화를 위해 Hadley Wickham이 개발한 ggplot2 패키지를 대부분 사용할 것입니다. 물론 많은 분들이 동의하는건 아니겠지만...
 <blockquote>…one place I lose tons of street cred in the data science community is when I talk about ggplot2… ggplot2 is an R package/phenomenon for data visualization. It was created by Hadley Wickham, who is (in my opinion) perhaps the most important statistician/data scientist on the planet. It is one of the best maintained, most important, and really well done R packages. Hadley also supports R software like few other people on the planet.</blockquote>
@@ -29,9 +187,7 @@ First of all, having exploratory plots be pretty, even if it’s not necessary, 
 
 But in any case, when making quick, exploratory graphs, I find using base R <em>absolutely</em> involves struggling against the system. I’ll give three examples, though they’re far from unique.
 <ul>
- 	<li><strong>Creating legends.</strong> Any time you use colors, shapes, transparency, etc in base plotting, you need to specify the mappings in the legend yourself, while ggplot2 generates it for you. For me, this is simply a no-brainer, and Jeff agress that “ggplot2 crushes base R for simplicity” when working with, for example, a color scale.
-
-Building your own legend slows down exploratory analysis in two ways. First, time spent specifying legends is time and attention you’re not putting towards your data and your scientific question. Second, it introduces room for error, like an off-by-one or transposition in your legend colors. These are dangerous when you’re working quickly and not proofreading.</li>
+ 	<li><strong>Creating legends.</strong> Any time you use colors, shapes, transparency, etc in base plotting, you need to specify the mappings in the legend yourself, while ggplot2 generates it for you. For me, this is simply a no-brainer, and Jeff agress that “ggplot2 crushes base R for simplicity” when working with, for example, a color scale.Building your own legend slows down exploratory analysis in two ways. First, time spent specifying legends is time and attention you’re not putting towards your data and your scientific question. Second, it introduces room for error, like an off-by-one or transposition in your legend colors. These are dangerous when you’re working quickly and not proofreading.</li>
  	<li><strong>Grouped lines</strong>: If I want to show, say, the price of six stocks or the expression level of six genes over time, I probably want to show them as six line plots. In ggplot2, you add a <code class="highlighter-rouge">group = stock</code> or <code class="highlighter-rouge">group = gene</code> aesthetic. In base plotting, you write a loop, subset the data each time, and call <code class="highlighter-rouge">lines</code>– but you’ll have to have created a blank plot beforehand with the appropriate axes.<sup id="fnref:matplot"><a class="footnote" href="http://varianceexplained.org/r/why-I-use-ggplot2/#fn:matplot" target="_blank" rel="nofollow">2</a></sup></li>
  	<li><strong>Faceting</strong> (creating a subplot for each subset of your data) is one of the primary tools I use when constructing a plot- it’s another way to spot relationships. In base R you’d have to construct each plot in a loop.</li>
 </ul>
@@ -117,25 +273,23 @@ Here Jeff explicitly argues that ugliness and difficulty-of-use are features, no
 
 I really didn’t set out to make fun of Jeff, but in this case it was a bit hard to resist.
 <div class="SandboxRoot env-bp-350" data-twitter-event-id="0">
-<div id="twitter-widget-0" class="EmbeddedTweet EmbeddedTweet--mediaForward media-forward js-clickToOpenTarget js-tweetIdInfo" lang="en" data-click-to-open-target="https://twitter.com/drob/status/697858212779806721" data-iframe-title="Twitter Tweet" data-dt-full="%{hours12}:%{minutes} %{amPm} - %{day} %{month} %{year}" data-dt-months="Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec" data-dt-am="AM" data-dt-pm="PM" data-dt-now="now" data-dt-s="s" data-dt-m="m" data-dt-h="h" data-dt-second="second" data-dt-seconds="seconds" data-dt-minute="minute" data-dt-minutes="minutes" data-dt-hour="hour" data-dt-hours="hours" data-dt-abbr="%{number}%{symbol}" data-dt-short="%{day} %{month}" data-dt-long="%{day} %{month} %{year}" data-scribe="page:tweet" data-tweet-id="697858212779806721" data-twitter-event-id="1"><article class="MediaCard
-           MediaCard--mediaForward
+<div id="twitter-widget-0" class="EmbeddedTweet EmbeddedTweet--mediaForward media-forward js-clickToOpenTarget js-tweetIdInfo" lang="en" data-click-to-open-target="https://twitter.com/drob/status/697858212779806721" data-iframe-title="Twitter Tweet" data-dt-full="%{hours12}:%{minutes} %{amPm} - %{day} %{month} %{year}" data-dt-months="Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec" data-dt-am="AM" data-dt-pm="PM" data-dt-now="now" data-dt-s="s" data-dt-m="m" data-dt-h="h" data-dt-second="second" data-dt-seconds="seconds" data-dt-minute="minute" data-dt-minutes="minutes" data-dt-hour="hour" data-dt-hours="hours" data-dt-abbr="%{number}%{symbol}" data-dt-short="%{day} %{month}" data-dt-long="%{day} %{month} %{year}" data-scribe="page:tweet" data-tweet-id="697858212779806721" data-twitter-event-id="1"><article class="MediaCard MediaCard--mediaForward customisable-border" dir="ltr" data-scribe="component:card">
+<div class="MediaCard-media">
 
-           customisable-border" dir="ltr" data-scribe="component:card">
-<div class="MediaCard-media"><a class="MediaCard-borderOverlay" tabindex="-1" title="View image on Twitter" href="https://twitter.com/drob/status/697858212779806721/photo/1"><span class="u-hiddenVisually">View image on Twitter</span></a>
+<a class="MediaCard-borderOverlay" tabindex="-1" title="View image on Twitter" href="https://twitter.com/drob/status/697858212779806721/photo/1"><span class="u-hiddenVisually">View image on Twitter</span></a>
 <div class="MediaCard-widthConstraint js-cspForcedStyle" data-style="max-width: 139px">
-<div class="MediaCard-mediaContainer js-cspForcedStyle" data-style="padding-bottom: 133.0935%"><a class="MediaCard-mediaAsset
-                    NaturalImage
-" href="https://twitter.com/drob/status/697858212779806721/photo/1" data-scribe="element:photo"><img class="NaturalImage-image" title="View image on Twitter" src="https://pbs.twimg.com/media/Ca9KWL5UAAAI4sj.jpg:small" alt="View image on Twitter" width="139" height="185" data-srcset="https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCa9KWL5UAAAI4sj.jpg%3Asmall 139w,https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCa9KWL5UAAAI4sj.jpg%3Alarge 139w,https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCa9KWL5UAAAI4sj.jpg 139w" /></a></div>
+<div class="MediaCard-mediaContainer js-cspForcedStyle" data-style="padding-bottom: 133.0935%"><a class="MediaCard-mediaAsset NaturalImage " href="https://twitter.com/drob/status/697858212779806721/photo/1" data-scribe="element:photo"><img class="NaturalImage-image" title="View image on Twitter" src="https://pbs.twimg.com/media/Ca9KWL5UAAAI4sj.jpg:small" alt="View image on Twitter" width="139" height="185" data-srcset="https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCa9KWL5UAAAI4sj.jpg%3Asmall 139w,https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCa9KWL5UAAAI4sj.jpg%3Alarge 139w,https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCa9KWL5UAAAI4sj.jpg 139w" /></a></div>
 </div>
 </div>
 </article>
 <div class="EmbeddedTweet-tweet">
-<blockquote class="Tweet h-entry js-tweetIdInfo subject expanded
-                   is-deciderHtmlWhitespace" cite="https://twitter.com/drob/status/697858212779806721" data-tweet-id="697858212779806721" data-scribe="section:subject">
+<blockquote class="Tweet h-entry js-tweetIdInfo subject expanded is-deciderHtmlWhitespace" cite="https://twitter.com/drob/status/697858212779806721" data-tweet-id="697858212779806721" data-scribe="section:subject">
 <div class="Tweet-header u-cf">
 <div class="Tweet-brand u-floatRight">
 <div class="Icon Icon--twitter " title=""></div>
-<span class="u-hiddenInNarrowEnv"><a class="FollowButton follow-button profile" title="Follow David Robinson on Twitter" href="https://twitter.com/drob" data-scribe="component:followbutton">Follow</a></span></div>
+<span class="u-hiddenInNarrowEnv"><a class="FollowButton follow-button profile" title="Follow David Robinson on Twitter" href="https://twitter.com/drob" data-scribe="component:followbutton">Follow</a></span>
+
+</div>
 <div class="TweetAuthor " data-scribe="component:author"><a class="TweetAuthor-link Identity u-linkBlend" href="https://twitter.com/drob" data-scribe="element:user_link"><span class="TweetAuthor-avatar Identity-avatar"><img class="Avatar" src="http://the-r.kr/wp-content/uploads/2017/03/David_Robinson_bigger.jpg" alt="" data-scribe="element:avatar" data-src-2x="http://the-r.kr/wp-content/uploads/2017/03/David_Robinson_bigger.jpg" data-src-1x="https://pbs.twimg.com/profile_images/777175344/David_Robinson_normal.jpg" /></span><span class="TweetAuthor-name Identity-name customisable-highlight" title="David Robinson" data-scribe="element:name">David Robinson</span> <span class="TweetAuthor-screenName Identity-screenName" dir="ltr" title="@drob" data-scribe="element:screen_name">@drob</span></a></div>
 </div>
 <div class="Tweet-body e-entry-content" data-scribe="component:tweet">
@@ -161,18 +315,14 @@ But here I’ll address the substance. For one thing, I don’t think the exampl
 
 But Jeff is presenting a false dichotomy between <strong>“Get a pretty good plot in ggplot2, submit it immediately,”</strong> and <strong>“Get an ugly plot in base R, spend time to make it into a great plot”</strong>. Here are other possibilities I’d argue are far more relevant:
 <ul>
- 	<li><strong>Someone gets an ugly graph in base R, sticks with it</strong>. I used to teach base plotting to beginners (<a href="http://varianceexplained.org/r/teach_ggplot2_to_beginners" target="_blank" rel="nofollow">not anymore!</a>) and I can tell you that having ugly output does <em>not</em> stop people from thinking they’re finished. Even if they do add a color scale, there’s no reason to believe they’ll follow it by fixing the x- and y- axis labels. Putting more energy into one part of your plot doesn’t make you put more energy in everywhere.
-
-Indeed, it should be pretty clear that having ugly plots by default is more likely to <em>hurt</em> your goal of spreading good graphing practices, because it sets a poor example for the user (the <a href="https://en.wikipedia.org/wiki/Broken_windows_theory" target="_blank" rel="nofollow">“broken window” effect</a>). Jeff can recognize problems in a plot because he has years of experience in data visualization. If the first R plots a student sees are ugly, he’s not going to spontaneously strive towards beauty. If every plot starts without a legend, he’s going to start thinking of legends as optional.</li>
+ 	<li><strong>Someone gets an ugly graph in base R, sticks with it</strong>. I used to teach base plotting to beginners (<a href="http://varianceexplained.org/r/teach_ggplot2_to_beginners" target="_blank" rel="nofollow">not anymore!</a>) and I can tell you that having ugly output does <em>not</em> stop people from thinking they’re finished. Even if they do add a color scale, there’s no reason to believe they’ll follow it by fixing the x- and y- axis labels. Putting more energy into one part of your plot doesn’t make you put more energy in everywhere.Indeed, it should be pretty clear that having ugly plots by default is more likely to <em>hurt</em> your goal of spreading good graphing practices, because it sets a poor example for the user (the <a href="https://en.wikipedia.org/wiki/Broken_windows_theory" target="_blank" rel="nofollow">“broken window” effect</a>). Jeff can recognize problems in a plot because he has years of experience in data visualization. If the first R plots a student sees are ugly, he’s not going to spontaneously strive towards beauty. If every plot starts without a legend, he’s going to start thinking of legends as optional.</li>
  	<li><strong>Someone gets a pretty good plot in ggplot2, and uses the saved time making it great.</strong> You’re getting a head start! Comparing base R used perfectly to ggplot2 used sloppily is unfair.</li>
  	<li><strong>Someone gets a pretty good plot in ggplot2, then discards it or iterates on it.</strong> There’s nothing quite as dreadful as spending twenty minutes building a plot only to realize it doesn’t communicate what you want. It’s easier to try multiple if each one is less effort, and if each result is pretty close to the final version. For instance, suppose you discovered that there’s nothing informative to be gained from a color scale. In ggplot2 you’d know that immediately, while in base plotting you’ll first have to go through the effort of adding one.</li>
  	<li><strong>Someone gets a pretty good plot in ggplot2, and that’s enough for their current purpose.</strong> I’ve submitted plenty of ggplot2 figures in assignments and manuscripts. But I also use ggplot2 for tweeting, blogging, or for sharing preliminary work with with colleagues and coworkers. For those, having an x-axis named “lat” instead of “latitude” is no big deal- but not having a legend would be completely unacceptable.</li>
 </ul>
 There’s one particular danger I’d argue is an order of magnitude more common and more dangerous than all the others.
 <ul>
- 	<li><strong>Someone discovers that making a basic plot in R is a ton of work, gives up, goes back to Excel.</strong> It’s pleasant to imagine that people start an R course thinking “Whatever it takes, I will make publication-quality figures in R.” Then, any challenge along the way is a valuable learning experience for them: they’ll spend the time to get their legend perfect, and at the end they’ll <em>appreciate</em> that legend, because by golly they worked for it!
-
-But the truth is we have limited educational bandwidth to spend. If making a good plot takes a lot of effort, people will leave the course with a negative impression of R, and they won’t bother learning more. I made this point in my original <a href="http://varianceexplained.org/r/teach_ggplot2_to_beginners/" target="_blank" rel="nofollow">“teach ggplot2 to beginners” post</a>:</li>
+ 	<li><strong>Someone discovers that making a basic plot in R is a ton of work, gives up, goes back to Excel.</strong> It’s pleasant to imagine that people start an R course thinking “Whatever it takes, I will make publication-quality figures in R.” Then, any challenge along the way is a valuable learning experience for them: they’ll spend the time to get their legend perfect, and at the end they’ll <em>appreciate</em> that legend, because by golly they worked for it!But the truth is we have limited educational bandwidth to spend. If making a good plot takes a lot of effort, people will leave the course with a negative impression of R, and they won’t bother learning more. I made this point in my original <a href="http://varianceexplained.org/r/teach_ggplot2_to_beginners/" target="_blank" rel="nofollow">“teach ggplot2 to beginners” post</a>:</li>
 </ul>
 <blockquote>Why does it matter how the plot looks? <strong>Because you’re not just teaching students <em>how</em> to program in R, you’re teaching them that they <em>should.</em></strong> Learning to program takes effort and investment, and the more compelling the figures you can create very early in the course, the more easily you can convince them it is worth the effort.</blockquote>
 In fact, going back to Excel isn’t the worst case: the worst case is that they stop bothering with data visualizations altogether. And when they think of graphs as either <strong>“(a) a ton of work or (b) ugly”</strong>, who could blame them?
