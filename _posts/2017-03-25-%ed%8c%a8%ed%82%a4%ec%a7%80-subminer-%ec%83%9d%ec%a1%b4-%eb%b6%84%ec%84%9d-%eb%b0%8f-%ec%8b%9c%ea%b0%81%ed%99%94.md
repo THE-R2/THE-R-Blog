@@ -9,6 +9,18 @@ permalink: 'http://the-r.kr/2017/03/25/%ed%8c%a8%ed%82%a4%ec%a7%80-subminer-%ec%
 published: true
 inline_featured_image:
   - "0"
+avada_post_views_count:
+  - "3"
+sbg_selected_sidebar:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+sbg_selected_sidebar_2:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_2_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+slide_template:
+  - default
 ---
 The <strong>survminer</strong> R package provides functions for facilitating <strong>survival analysis</strong> and <strong>visualization</strong>.
 
