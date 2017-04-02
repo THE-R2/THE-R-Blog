@@ -1,8 +1,8 @@
 ---
 ID: 1787
 post_title: >
-  The 5 Most Effective Ways to Learn R |
-  R-bloggers
+  R을 배우는 5 가지 가장
+  효과적인 방법
 author: The-R
 post_date: 2017-04-01 18:38:56
 post_excerpt: ""
@@ -12,7 +12,169 @@ permalink: >
 published: true
 inline_featured_image:
   - "0"
+avada_post_views_count:
+  - "26"
+scc_share_count_google+:
+  - "0"
+scc_share_count_facebook:
+  - "-1"
+scc_share_count_pocket:
+  - "0"
+scc_share_count_hatebu:
+  - "0"
+scc_share_count_crawldate:
+  - 2017/04/02 21:48:33
+scc_share_count_total:
+  - "0"
+slide_template:
+  - default
+sbg_selected_sidebar:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+sbg_selected_sidebar_2:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_2_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+pyre_show_first_featured_image:
+  - 'no'
+pyre_fimg_width:
+  - ""
+pyre_fimg_height:
+  - ""
+pyre_portfolio_width_100:
+  - default
+pyre_video:
+  - ""
+pyre_image_rollover_icons:
+  - default
+pyre_link_icon_url:
+  - ""
+pyre_post_links_target:
+  - 'no'
+pyre_related_posts:
+  - default
+pyre_share_box:
+  - default
+pyre_post_pagination:
+  - default
+pyre_author_info:
+  - default
+pyre_post_meta:
+  - default
+pyre_post_comments:
+  - default
+pyre_main_top_padding:
+  - ""
+pyre_main_bottom_padding:
+  - ""
+pyre_hundredp_padding:
+  - ""
+pyre_slider_type:
+  - 'no'
+pyre_slider:
+  - "0"
+pyre_wooslider:
+  - "0"
+pyre_revslider:
+  - "0"
+pyre_elasticslider:
+  - "0"
+pyre_slider_position:
+  - default
+pyre_avada_rev_styles:
+  - default
+pyre_fallback:
+  - ""
+pyre_demo_slider:
+  - ""
+pyre_display_header:
+  - 'yes'
+pyre_header_100_width:
+  - default
+pyre_header_bg_color:
+  - ""
+pyre_header_bg_opacity:
+  - ""
+pyre_header_bg:
+  - ""
+pyre_header_bg_full:
+  - 'no'
+pyre_header_bg_repeat:
+  - repeat
+pyre_displayed_menu:
+  - default
+pyre_display_footer:
+  - default
+pyre_display_copyright:
+  - default
+pyre_footer_100_width:
+  - default
+pyre_sidebar_position:
+  - default
+pyre_sidebar_bg_color:
+  - ""
+pyre_page_bg_layout:
+  - default
+pyre_page_bg_color:
+  - ""
+pyre_page_bg:
+  - ""
+pyre_page_bg_full:
+  - 'no'
+pyre_page_bg_repeat:
+  - repeat
+pyre_wide_page_bg_color:
+  - ""
+pyre_wide_page_bg:
+  - ""
+pyre_wide_page_bg_full:
+  - 'no'
+pyre_wide_page_bg_repeat:
+  - repeat
+pyre_page_title:
+  - default
+pyre_page_title_breadcrumbs_search_bar:
+  - default
+pyre_page_title_text:
+  - default
+pyre_page_title_text_alignment:
+  - default
+pyre_page_title_custom_text:
+  - ""
+pyre_page_title_text_size:
+  - ""
+pyre_page_title_custom_subheader:
+  - ""
+pyre_page_title_custom_subheader_text_size:
+  - ""
+pyre_page_title_font_color:
+  - ""
+pyre_page_title_100_width:
+  - default
+pyre_page_title_height:
+  - ""
+pyre_page_title_mobile_height:
+  - ""
+pyre_page_title_bar_bg_color:
+  - ""
+pyre_page_title_bar_borders_color:
+  - ""
+pyre_page_title_bar_bg:
+  - ""
+pyre_page_title_bar_bg_retina:
+  - ""
+pyre_page_title_bar_bg_full:
+  - default
+pyre_page_title_bg_parallax:
+  - default
+fusion_builder_status:
+  - ""
 ---
+<div id="translation">
+<div class="gtx-body">간단한 시계열을 계획하고 있거나 다음 선거에 대한 예측 모델을 작성하든 관계없이 R 프로그래밍 언어의 유연성을 통해 작업을 수행하는 데 필요한 모든 기능을 사용할 수 있습니다. 이 블로그에서는이 필수 데이터 과학 언어를 학습하기위한 5 가지 효과적인 전략과 각각의 주요 리소스에 대해 살펴볼 것입니다. 이 전략은 세계에서 가장 강력한 통계 언어를 마스터하는 길에서 서로 보완하기 위해 사용해야합니다!</div>
+</div>
+<div></div>
 Whether you’re plotting a simple time series or building a predictive model for the next election, the R programming language’s flexibility will ensure you have all the capabilities you need to get the job done. In this blog we will take a look at five effective tactics for learning this essential data science language, as well as some of the top resources associated with each. These tactics should be used to complement one another on your path to mastering the world’s most powerful statistical language!
 <h4>1. Watch Instructive Videos</h4>
 <figure><img src="http://the-r.kr/wp-content/uploads/2017/04/1KInX2CIF33Hj30Ody9-dng.png" alt="" width="456" height="227" data-lazy-loaded="true" /></figure>
