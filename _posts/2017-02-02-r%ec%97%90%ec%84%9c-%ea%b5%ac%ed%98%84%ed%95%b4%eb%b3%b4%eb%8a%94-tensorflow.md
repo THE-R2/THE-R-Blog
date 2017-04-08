@@ -27,14 +27,8 @@ scc_share_count_total:
   - "-1"
 slide_template:
   - default
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:0:"";}'
-sbg_selected_sidebar_2:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_2_replacement:
-  - 'a:1:{i:0;s:0:"";}'
+fusion_builder_status:
+  - ""
 pyre_show_first_featured_image:
   - 'no'
 pyre_fimg_width:
@@ -167,8 +161,14 @@ pyre_page_title_bar_bg_full:
   - default
 pyre_page_title_bg_parallax:
   - default
-fusion_builder_status:
-  - ""
+sbg_selected_sidebar:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+sbg_selected_sidebar_2:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_2_replacement:
+  - 'a:1:{i:0;s:0:"";}'
 ---
 머신러닝과 관련하여 요즘 핫하게 뜨고 있는 딥러닝 분야의 솔루션인 TensorFlow 빼놓고 얘기할 수 없읍니다. 많은 사용자를 갖고 있는 이면에는 기능적인 면이나 여러 개발 도구와도 접목이 잘되기 때문이 아닌가 싶습니다.
 
