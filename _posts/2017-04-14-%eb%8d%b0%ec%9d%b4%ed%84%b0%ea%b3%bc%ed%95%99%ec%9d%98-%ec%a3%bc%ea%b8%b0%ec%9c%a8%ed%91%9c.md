@@ -19,14 +19,8 @@ dsq_needs_sync:
   - "1"
 slide_template:
   - default
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:0:"";}'
-sbg_selected_sidebar_2:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_2_replacement:
-  - 'a:1:{i:0;s:0:"";}'
+fusion_builder_status:
+  - ""
 pyre_show_first_featured_image:
   - 'no'
 pyre_fimg_width:
@@ -159,8 +153,26 @@ pyre_page_title_bar_bg_full:
   - default
 pyre_page_title_bg_parallax:
   - default
-fusion_builder_status:
-  - ""
+scc_share_count_google+:
+  - "0"
+scc_share_count_facebook:
+  - "-1"
+scc_share_count_pocket:
+  - "0"
+scc_share_count_hatebu:
+  - "0"
+scc_share_count_crawldate:
+  - 2017/04/14 11:23:10
+scc_share_count_total:
+  - "0"
+sbg_selected_sidebar:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+sbg_selected_sidebar_2:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_2_replacement:
+  - 'a:1:{i:0;s:0:"";}'
 ---
 이 주기율표는 데이터 과학 공간의 주요 플레이어를 탐색하는 가이드 역할을 할 수 있습니다. 이 테이블의 자료는 O'Reilly의 2016 Data Science Salary Survey, Gartner의 2017 Magic Science Quadrant 및 KD Nuggets 2016 Software Poll 결과와 같은 데이터 과학 사용자로부터 얻은 설문 조사를보고 선택했습니다. 다른 출처 중. 표의 카테고리가 모두 상호 배타적 인 것은 아닙니다.
 
