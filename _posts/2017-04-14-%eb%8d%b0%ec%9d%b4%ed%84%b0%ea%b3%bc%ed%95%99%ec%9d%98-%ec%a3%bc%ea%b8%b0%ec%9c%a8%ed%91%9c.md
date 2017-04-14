@@ -11,15 +11,163 @@ inline_featured_image:
   - "0"
 yst_is_cornerstone:
   - ""
+avada_post_views_count:
+  - "1"
+dsq_thread_id:
+  - "5724231450"
+dsq_needs_sync:
+  - "1"
+slide_template:
+  - default
+sbg_selected_sidebar:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+sbg_selected_sidebar_2:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_2_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+pyre_show_first_featured_image:
+  - 'no'
+pyre_fimg_width:
+  - ""
+pyre_fimg_height:
+  - ""
+pyre_portfolio_width_100:
+  - default
+pyre_video:
+  - ""
+pyre_image_rollover_icons:
+  - default
+pyre_link_icon_url:
+  - ""
+pyre_post_links_target:
+  - 'no'
+pyre_related_posts:
+  - default
+pyre_share_box:
+  - default
+pyre_post_pagination:
+  - default
+pyre_author_info:
+  - default
+pyre_post_meta:
+  - default
+pyre_post_comments:
+  - default
+pyre_main_top_padding:
+  - ""
+pyre_main_bottom_padding:
+  - ""
+pyre_hundredp_padding:
+  - ""
+pyre_slider_type:
+  - 'no'
+pyre_slider:
+  - "0"
+pyre_wooslider:
+  - "0"
+pyre_revslider:
+  - "0"
+pyre_elasticslider:
+  - "0"
+pyre_slider_position:
+  - default
+pyre_avada_rev_styles:
+  - default
+pyre_fallback:
+  - ""
+pyre_demo_slider:
+  - ""
+pyre_display_header:
+  - 'yes'
+pyre_header_100_width:
+  - default
+pyre_header_bg_color:
+  - ""
+pyre_header_bg_opacity:
+  - ""
+pyre_header_bg:
+  - ""
+pyre_header_bg_full:
+  - 'no'
+pyre_header_bg_repeat:
+  - repeat
+pyre_displayed_menu:
+  - default
+pyre_display_footer:
+  - default
+pyre_display_copyright:
+  - default
+pyre_footer_100_width:
+  - default
+pyre_sidebar_position:
+  - default
+pyre_sidebar_bg_color:
+  - ""
+pyre_page_bg_layout:
+  - default
+pyre_page_bg_color:
+  - ""
+pyre_page_bg:
+  - ""
+pyre_page_bg_full:
+  - 'no'
+pyre_page_bg_repeat:
+  - repeat
+pyre_wide_page_bg_color:
+  - ""
+pyre_wide_page_bg:
+  - ""
+pyre_wide_page_bg_full:
+  - 'no'
+pyre_wide_page_bg_repeat:
+  - repeat
+pyre_page_title:
+  - default
+pyre_page_title_breadcrumbs_search_bar:
+  - default
+pyre_page_title_text:
+  - default
+pyre_page_title_text_alignment:
+  - default
+pyre_page_title_custom_text:
+  - ""
+pyre_page_title_text_size:
+  - ""
+pyre_page_title_custom_subheader:
+  - ""
+pyre_page_title_custom_subheader_text_size:
+  - ""
+pyre_page_title_font_color:
+  - ""
+pyre_page_title_100_width:
+  - default
+pyre_page_title_height:
+  - ""
+pyre_page_title_mobile_height:
+  - ""
+pyre_page_title_bar_bg_color:
+  - ""
+pyre_page_title_bar_borders_color:
+  - ""
+pyre_page_title_bar_bg:
+  - ""
+pyre_page_title_bar_bg_retina:
+  - ""
+pyre_page_title_bar_bg_full:
+  - default
+pyre_page_title_bg_parallax:
+  - default
+fusion_builder_status:
+  - ""
 ---
 이 주기율표는 데이터 과학 공간의 주요 플레이어를 탐색하는 가이드 역할을 할 수 있습니다. 이 테이블의 자료는 O'Reilly의 2016 Data Science Salary Survey, Gartner의 2017 Magic Science Quadrant 및 KD Nuggets 2016 Software Poll 결과와 같은 데이터 과학 사용자로부터 얻은 설문 조사를보고 선택했습니다. 다른 출처 중. 표의 카테고리가 모두 상호 배타적 인 것은 아닙니다.
 
 이 주기율표는 데이터 과학 공간의 주요 플레이어를 탐색하는 가이드 역할을 할 수 있습니다. 이 테이블의 자료는 O'Reilly의 2016 Data Science Salary Survey, Gartner의 2017 Magic Science Quadrant 및 KD Nuggets 2016 Software Poll 결과와 같은 데이터 과학 사용자로부터 얻은 설문 조사를보고 선택했습니다. 다른 출처 중. 표의 카테고리가 모두 상호 배타적 인 것은 아닙니다.
 
-아래의 데이터 과학 전체 주기율표를 확인하십시오.
-
-<a href="https://i2.wp.com/s3.amazonaws.com/assets.datacamp.com/blog_assets/Data-Science-Periodic-Table.png?ssl=1" target="_blank" rel="nofollow"><img class="" src="http://the-r.kr/wp-content/uploads/2017/04/content_screenshot_2017-04-12_17_29_56.png" alt="" width="582" height="278" data-recalc-dims="1" data-lazy-loaded="true" /></a>
-<h2>데이터 과학의 주기율표 탐색</h2>
+&nbsp;
+<h4>데이터 과학의 주기율표 탐색</h4>
 테이블의 왼쪽 섹션에는 교육과 관련이있는 회사 목록이 나와 있습니다. 여기에는 코스, 부트 캠프 및 컨퍼런스가 있습니다. 반면에 오른쪽에는 최신 뉴스, 가장 인기있는 블로그 및 데이터 과학 커뮤니티의 관련 자료로 최신 정보를 얻을 수있는 리소스가 있습니다. 중간에는 데이터 과학을 시작하는 데 사용할 수있는 도구가 있습니다. 프로그래밍 언어, 프로젝트 및 문제, 데이터 시각화 도구 등을 찾을 수 있습니다.
 
 이 표는 데이터 과학 자료, 도구 및 회사를 다음 13 가지 범주로 분류합니다.
