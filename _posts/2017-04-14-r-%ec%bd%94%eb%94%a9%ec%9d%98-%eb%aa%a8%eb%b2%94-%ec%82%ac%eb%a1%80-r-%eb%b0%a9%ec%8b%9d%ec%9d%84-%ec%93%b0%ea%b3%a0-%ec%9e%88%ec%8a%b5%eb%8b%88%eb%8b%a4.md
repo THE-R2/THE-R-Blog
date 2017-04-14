@@ -9,9 +9,167 @@ permalink: 'http://the-r.kr/2017/04/14/r-%ec%bd%94%eb%94%a9%ec%9d%98-%eb%aa%a8%e
 published: true
 inline_featured_image:
   - "0"
+scc_share_count_google+:
+  - "0"
+scc_share_count_facebook:
+  - "-1"
+scc_share_count_pocket:
+  - "0"
+scc_share_count_hatebu:
+  - "0"
+scc_share_count_crawldate:
+  - 2017/04/14 10:56:18
+scc_share_count_total:
+  - "0"
+avada_post_views_count:
+  - "1"
+slide_template:
+  - default
+yst_is_cornerstone:
+  - ""
+sbg_selected_sidebar:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+sbg_selected_sidebar_2:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_2_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+pyre_show_first_featured_image:
+  - 'no'
+pyre_fimg_width:
+  - ""
+pyre_fimg_height:
+  - ""
+pyre_portfolio_width_100:
+  - default
+pyre_video:
+  - ""
+pyre_image_rollover_icons:
+  - default
+pyre_link_icon_url:
+  - ""
+pyre_post_links_target:
+  - 'no'
+pyre_related_posts:
+  - default
+pyre_share_box:
+  - default
+pyre_post_pagination:
+  - default
+pyre_author_info:
+  - default
+pyre_post_meta:
+  - default
+pyre_post_comments:
+  - default
+pyre_main_top_padding:
+  - ""
+pyre_main_bottom_padding:
+  - ""
+pyre_hundredp_padding:
+  - ""
+pyre_slider_type:
+  - 'no'
+pyre_slider:
+  - "0"
+pyre_wooslider:
+  - "0"
+pyre_revslider:
+  - "0"
+pyre_elasticslider:
+  - "0"
+pyre_slider_position:
+  - default
+pyre_avada_rev_styles:
+  - default
+pyre_fallback:
+  - ""
+pyre_demo_slider:
+  - ""
+pyre_display_header:
+  - 'yes'
+pyre_header_100_width:
+  - default
+pyre_header_bg_color:
+  - ""
+pyre_header_bg_opacity:
+  - ""
+pyre_header_bg:
+  - ""
+pyre_header_bg_full:
+  - 'no'
+pyre_header_bg_repeat:
+  - repeat
+pyre_displayed_menu:
+  - default
+pyre_display_footer:
+  - default
+pyre_display_copyright:
+  - default
+pyre_footer_100_width:
+  - default
+pyre_sidebar_position:
+  - default
+pyre_sidebar_bg_color:
+  - ""
+pyre_page_bg_layout:
+  - default
+pyre_page_bg_color:
+  - ""
+pyre_page_bg:
+  - ""
+pyre_page_bg_full:
+  - 'no'
+pyre_page_bg_repeat:
+  - repeat
+pyre_wide_page_bg_color:
+  - ""
+pyre_wide_page_bg:
+  - ""
+pyre_wide_page_bg_full:
+  - 'no'
+pyre_wide_page_bg_repeat:
+  - repeat
+pyre_page_title:
+  - default
+pyre_page_title_breadcrumbs_search_bar:
+  - default
+pyre_page_title_text:
+  - default
+pyre_page_title_text_alignment:
+  - default
+pyre_page_title_custom_text:
+  - ""
+pyre_page_title_text_size:
+  - ""
+pyre_page_title_custom_subheader:
+  - ""
+pyre_page_title_custom_subheader_text_size:
+  - ""
+pyre_page_title_font_color:
+  - ""
+pyre_page_title_100_width:
+  - default
+pyre_page_title_height:
+  - ""
+pyre_page_title_mobile_height:
+  - ""
+pyre_page_title_bar_bg_color:
+  - ""
+pyre_page_title_bar_borders_color:
+  - ""
+pyre_page_title_bar_bg:
+  - ""
+pyre_page_title_bar_bg_retina:
+  - ""
+pyre_page_title_bar_bg_full:
+  - default
+pyre_page_title_bg_parallax:
+  - default
+fusion_builder_status:
+  - ""
 ---
-<img class="aligncenter size-full wp-image-8045" src="http://the-r.kr/wp-content/uploads/2017/04/R-Best-Practices-R-you-writing-the-R-way-1.jpg" sizes="(max-width: 1200px) 100vw, 1200px" alt="" width="450" height="236" data-recalc-dims="1" data-lazy-loaded="true" />
-
 By <a href="https://www.linkedin.com/in/milind-paradkar-b37292107/" target="_blank" rel="nofollow">Milind Paradkar</a>
 
 모든 프로그래머는 불가피하게 일상 업무에 수많은 코드를 씁니다. 그러나 모든 프로그래머가 다른 사람들이 쉽게 이해할 수있는 깨끗한 코드를 작성하는 습관을 갖지는 않습니다. 그 이유 중 하나는 프로그래머가 프로그램을 작성하는 데 따르는 모범 사례에 대한 인식 부족 때문일 수 있습니다. 초보자 프로그래머에게는 특히 그렇습니다. 이 글에서는 코드 가독성, 일관성 및 반복성 향상으로 이어질 R 프로그래밍 우수 사례를 소개합니다. 한번 읽어 보세요!
