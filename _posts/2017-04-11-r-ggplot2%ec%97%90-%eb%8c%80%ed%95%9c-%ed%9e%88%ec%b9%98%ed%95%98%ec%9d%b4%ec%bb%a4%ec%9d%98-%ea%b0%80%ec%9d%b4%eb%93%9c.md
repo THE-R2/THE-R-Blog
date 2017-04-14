@@ -11,21 +11,197 @@ permalink: 'http://the-r.kr/2017/04/11/r-ggplot2%ec%97%90-%eb%8c%80%ed%95%9c-%ed
 published: true
 inline_featured_image:
   - "0"
+avada_post_views_count:
+  - "5"
+scc_share_count_google+:
+  - "0"
+scc_share_count_facebook:
+  - "-1"
+scc_share_count_pocket:
+  - "0"
+scc_share_count_hatebu:
+  - "0"
+scc_share_count_crawldate:
+  - 2017/04/14 11:23:11
+scc_share_count_total:
+  - "0"
+dsq_thread_id:
+  - "5715542628"
+dsq_needs_sync:
+  - "1"
+slide_template:
+  - default
+yst_is_cornerstone:
+  - ""
+sbg_selected_sidebar:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+sbg_selected_sidebar_2:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_2_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+pyre_show_first_featured_image:
+  - 'no'
+pyre_fimg_width:
+  - ""
+pyre_fimg_height:
+  - ""
+pyre_portfolio_width_100:
+  - default
+pyre_video:
+  - ""
+pyre_image_rollover_icons:
+  - default
+pyre_link_icon_url:
+  - ""
+pyre_post_links_target:
+  - 'no'
+pyre_related_posts:
+  - default
+pyre_share_box:
+  - default
+pyre_post_pagination:
+  - default
+pyre_author_info:
+  - default
+pyre_post_meta:
+  - default
+pyre_post_comments:
+  - default
+pyre_main_top_padding:
+  - ""
+pyre_main_bottom_padding:
+  - ""
+pyre_hundredp_padding:
+  - ""
+pyre_slider_type:
+  - 'no'
+pyre_slider:
+  - "0"
+pyre_wooslider:
+  - "0"
+pyre_revslider:
+  - "0"
+pyre_elasticslider:
+  - "0"
+pyre_slider_position:
+  - default
+pyre_avada_rev_styles:
+  - default
+pyre_fallback:
+  - ""
+pyre_demo_slider:
+  - ""
+pyre_display_header:
+  - 'yes'
+pyre_header_100_width:
+  - default
+pyre_header_bg_color:
+  - ""
+pyre_header_bg_opacity:
+  - ""
+pyre_header_bg:
+  - ""
+pyre_header_bg_full:
+  - 'no'
+pyre_header_bg_repeat:
+  - repeat
+pyre_displayed_menu:
+  - default
+pyre_display_footer:
+  - default
+pyre_display_copyright:
+  - default
+pyre_footer_100_width:
+  - default
+pyre_sidebar_position:
+  - default
+pyre_sidebar_bg_color:
+  - ""
+pyre_page_bg_layout:
+  - default
+pyre_page_bg_color:
+  - ""
+pyre_page_bg:
+  - ""
+pyre_page_bg_full:
+  - 'no'
+pyre_page_bg_repeat:
+  - repeat
+pyre_wide_page_bg_color:
+  - ""
+pyre_wide_page_bg:
+  - ""
+pyre_wide_page_bg_full:
+  - 'no'
+pyre_wide_page_bg_repeat:
+  - repeat
+pyre_page_title:
+  - default
+pyre_page_title_breadcrumbs_search_bar:
+  - default
+pyre_page_title_text:
+  - default
+pyre_page_title_text_alignment:
+  - default
+pyre_page_title_custom_text:
+  - ""
+pyre_page_title_text_size:
+  - ""
+pyre_page_title_custom_subheader:
+  - ""
+pyre_page_title_custom_subheader_text_size:
+  - ""
+pyre_page_title_font_color:
+  - ""
+pyre_page_title_100_width:
+  - default
+pyre_page_title_height:
+  - ""
+pyre_page_title_mobile_height:
+  - ""
+pyre_page_title_bar_bg_color:
+  - ""
+pyre_page_title_bar_borders_color:
+  - ""
+pyre_page_title_bar_bg:
+  - ""
+pyre_page_title_bar_bg_retina:
+  - ""
+pyre_page_title_bar_bg_full:
+  - default
+pyre_page_title_bg_parallax:
+  - default
+fusion_builder_status:
+  - ""
 ---
-<h1>About the book</h1>
+<h1></h1>
 <div id="bg">우선 책은 <a href="https://leanpub.com/hitchhikers_ggplot2">여기</a> 에서 책을 받으실 수 있습니다.</div>
 <div></div>
-<div>이것은 완벽 해 보이지만 R 패키지의 변경 사항은 항상 책에 포함 된 예제의 변경을 요구합니다. 이것이 전자 형식이이 작업의 목적에 이상적인 이유입니다. 죽은 나무 책 안에 그것을 갇히는 것은 궁극적으로 시간과 자원 낭비입니다.
+<div>
 
-나의 첫 번째 서적을 제외하고 이것은 또한 나의 첫 번째 공동 작업입니다. 나는 Jodie Burchell과의 50-50 협력에서 그것을 썼다. Jodie는 놀라운 데이터 과학자입니다. 나는 당신이 재현 가능한 연구 등에서 정말 좋은 자료를 찾을 수있는 그녀의 블로그 Standard Error를 읽기를 강력히 권합니다.</div>
+이것은 완벽 해 보이지만 R 패키지의 변경 사항은 항상 책에 포함 된 예제의 변경을 요구합니다. 이것이 전자 형식이이 작업의 목적에 이상적인 이유입니다. 죽은 나무 책 안에 그것을 갇히는 것은 궁극적으로 시간과 자원 낭비입니다.
+
+나의 첫 번째 서적을 제외하고 이것은 또한 나의 첫 번째 공동 작업입니다. 나는 Jodie Burchell과의 50-50 협력에서 그것을 썼다. Jodie는 놀라운 데이터 과학자입니다. 나는 당신이 재현 가능한 연구 등에서 정말 좋은 자료를 찾을 수있는 그녀의 블로그 Standard Error를 읽기를 강력히 권합니다.
+
+</div>
 <div></div>
-<div>이 책은 기술 도서입니다. 이 책의 범위는 바로 그 지점으로 가고 글쓰기 스타일은 자세한 지침이있는 요리법과 유사합니다. R의 기초를 알고 있고 아름다운 그림을 만드는 법을 배우고 싶다고 가정합니다.
+<div>
 
-각 장에서는 다른 유형의 플롯을 만드는 방법을 설명하고 기본 플롯에서 고도로 맞춤화 된 그래프까지 단계별로 안내합니다. 장의 순서는 난이도에 따른다.</div>
+이 책은 기술 도서입니다. 이 책의 범위는 바로 그 지점으로 가고 글쓰기 스타일은 자세한 지침이있는 요리법과 유사합니다. R의 기초를 알고 있고 아름다운 그림을 만드는 법을 배우고 싶다고 가정합니다.
+
+각 장에서는 다른 유형의 플롯을 만드는 방법을 설명하고 기본 플롯에서 고도로 맞춤화 된 그래프까지 단계별로 안내합니다. 장의 순서는 난이도에 따른다.
+
+</div>
 <div></div>
-<div>모든 장은 다른 장과는 독립적입니다. 전체 책을 읽거나 관심있는 부분으로 갈 수 있으며 첫 번째 장을 읽지 않고 지침을 이해하고 예제를 재현하는 것이 쉽다는 것을 확신합니다.
+<div>
 
-전체적으로이 책에는 받아 들일 수있는 미적 결과를 얻기 위해 237 페이지 (레터 용지 크기)의 다양한 조리법이 포함되어 있습니다. Leanpub에서 무료로 책을 다운로드 할 수 있습니다 (예, 정말로!).</div>
+모든 장은 다른 장과는 독립적입니다. 전체 책을 읽거나 관심있는 부분으로 갈 수 있으며 첫 번째 장을 읽지 않고 지침을 이해하고 예제를 재현하는 것이 쉽다는 것을 확신합니다.
+
+전체적으로이 책에는 받아 들일 수있는 미적 결과를 얻기 위해 237 페이지 (레터 용지 크기)의 다양한 조리법이 포함되어 있습니다. Leanpub에서 무료로 책을 다운로드 할 수 있습니다 (예, 정말로!).
+
+</div>
 <div></div>
 This is a book that may look complete but changes in R package are always demanding changes in the examples contained within the book. This is why the electronic format is perfect for the purpose of this work. Trapping it inside a dead tree book is ultimately a waste of time and resources in my on view.
 
