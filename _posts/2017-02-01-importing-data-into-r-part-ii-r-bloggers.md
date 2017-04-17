@@ -13,7 +13,7 @@ published: true
 inline_featured_image:
   - "0"
 avada_post_views_count:
-  - "11"
+  - "12"
 scc_share_count_google+:
   - "0"
 scc_share_count_facebook:
@@ -23,7 +23,7 @@ scc_share_count_pocket:
 scc_share_count_hatebu:
   - "0"
 scc_share_count_crawldate:
-  - 2017/04/16 22:49:12
+  - 2017/04/18 07:15:38
 scc_share_count_total:
   - "0"
 yst_is_cornerstone:
