@@ -23,7 +23,7 @@ scc_share_count_pocket:
 scc_share_count_hatebu:
   - "0"
 scc_share_count_crawldate:
-  - 2017/04/18 07:15:38
+  - 2017/04/18 08:15:12
 scc_share_count_total:
   - "0"
 yst_is_cornerstone:
