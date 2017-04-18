@@ -13,6 +13,20 @@ published: true
 inline_featured_image:
   - "0"
 avada_post_views_count:
-  - "22"
+  - "28"
+scc_share_count_google+:
+  - "0"
+scc_share_count_facebook:
+  - "-1"
+scc_share_count_pocket:
+  - "0"
+scc_share_count_hatebu:
+  - "0"
+scc_share_count_crawldate:
+  - 2017/04/18 08:15:05
+scc_share_count_total:
+  - "0"
+yst_is_cornerstone:
+  - ""
 ---
-<p>소스: <em><a href="https://www.r-bloggers.com/scratching-the-surface-of-gender-biases/">Scratching the Surface of Gender Biases | R-bloggers</a></em></p>
+소스: <em>Scratching the Surface of Gender Biases | R-bloggers</em>
