@@ -11,23 +11,21 @@ published: true
 inline_featured_image:
   - "0"
 avada_post_views_count:
-  - "36"
+  - "44"
 swp_cache_timestamp:
   - "413409"
-scc_share_count_google+:
-  - "0"
-scc_share_count_facebook:
-  - "-1"
-scc_share_count_pocket:
-  - "0"
-scc_share_count_hatebu:
-  - "0"
-scc_share_count_crawldate:
-  - 2017/03/12 11:45:54
-scc_share_count_total:
-  - "0"
 slide_template:
   - default
+fusion_builder_status:
+  - ""
+sbg_selected_sidebar:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+sbg_selected_sidebar_2:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_2_replacement:
+  - 'a:1:{i:0;s:0:"";}'
 pyre_show_first_featured_image:
   - 'no'
 pyre_fimg_width:
@@ -160,19 +158,23 @@ pyre_page_title_bar_bg_full:
   - default
 pyre_page_title_bg_parallax:
   - default
-fusion_builder_status:
+scc_share_count_google+:
+  - "0"
+scc_share_count_facebook:
+  - "-1"
+scc_share_count_pocket:
+  - "0"
+scc_share_count_hatebu:
+  - "0"
+scc_share_count_crawldate:
+  - 2017/04/18 08:56:54
+scc_share_count_total:
+  - "0"
+yst_is_cornerstone:
   - ""
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:0:"";}'
-sbg_selected_sidebar_2:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_2_replacement:
-  - 'a:1:{i:0;s:0:"";}'
 ---
 <h2><code>hrbrthemes</code> : Additional Themes and Theme Components for 'ggplot2'</h2>
-<a href="http://www.repostatus.org/#active"><img src="https://camo.githubusercontent.com/20bbf42586ee61bd1930ba7ae43fd8a5275852db/687474703a2f2f7777772e7265706f7374617475732e6f72672f6261646765732f302e312e302f6163746976652e737667" alt="Project Status: Active - The project has reached a stable, usable state and is being actively developed." data-canonical-src="http://www.repostatus.org/badges/0.1.0/active.svg" /></a> <a href="https://codecov.io/gh/hrbrmstr/hrbrthemes"><img src="https://camo.githubusercontent.com/d38a0e02e4504b86cc1173a2b2f06c2a2f61c4ae/68747470733a2f2f636f6465636f762e696f2f67682f687262726d7374722f687262727468656d65732f6272616e63682f6d61737465722f67726170682f62616467652e737667" alt="codecov" data-canonical-src="https://codecov.io/gh/hrbrmstr/hrbrthemes/branch/master/graph/badge.svg" /></a> <a href="https://travis-ci.org/hrbrmstr/hrbrthemes"><img src="https://camo.githubusercontent.com/fda0221c047ddd39596492a6abc784e793554e52/68747470733a2f2f7472617669732d63692e6f72672f687262726d7374722f687262727468656d65732e7376673f6272616e63683d6d6173746572" alt="Travis-CI Build Status" data-canonical-src="https://travis-ci.org/hrbrmstr/hrbrthemes.svg?branch=master" /></a> <a href="https://cran.r-project.org/package=hrbrthemes"><img src="https://camo.githubusercontent.com/b4fb8cdec4db2055533cb5134589b41265968094/687474703a2f2f7777772e722d706b672e6f72672f6261646765732f76657273696f6e2f687262727468656d6573" alt="CRAN\_Status\_Badge" data-canonical-src="http://www.r-pkg.org/badges/version/hrbrthemes" /></a> <a href="https://camo.githubusercontent.com/35fe56d7b0ad485185a0868aa00bca0f9b243b2b/687474703a2f2f6372616e6c6f67732e722d706b672e6f72672f6261646765732f6772616e642d746f74616c2f687262727468656d6573" target="_blank"><img src="https://camo.githubusercontent.com/35fe56d7b0ad485185a0868aa00bca0f9b243b2b/687474703a2f2f6372616e6c6f67732e722d706b672e6f72672f6261646765732f6772616e642d746f74616c2f687262727468656d6573" alt="downloads" data-canonical-src="http://cranlogs.r-pkg.org/badges/grand-total/hrbrthemes" /></a> <a href="https://gist.github.com/hrbrmstr/be2f2c14fd78cac24697"><img src="https://camo.githubusercontent.com/6fe89a4fe8f5ba13d2e0665069367c42f1b1fe07/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6b6579626173652d76657269666965642d627269676874677265656e2e737667" alt="keybase verified" data-canonical-src="https://img.shields.io/badge/keybase-verified-brightgreen.svg" /></a>
+<a href="http://www.repostatus.org/#active"><img src="https://camo.githubusercontent.com/20bbf42586ee61bd1930ba7ae43fd8a5275852db/687474703a2f2f7777772e7265706f7374617475732e6f72672f6261646765732f302e312e302f6163746976652e737667" alt="Project Status: Active - The project has reached a stable, usable state and is being actively developed." data-canonical-src="http://www.repostatus.org/badges/0.1.0/active.svg" /></a> <a href="https://codecov.io/gh/hrbrmstr/hrbrthemes"><img src="https://camo.githubusercontent.com/d38a0e02e4504b86cc1173a2b2f06c2a2f61c4ae/68747470733a2f2f636f6465636f762e696f2f67682f687262726d7374722f687262727468656d65732f6272616e63682f6d61737465722f67726170682f62616467652e737667" alt="codecov" data-canonical-src="https://codecov.io/gh/hrbrmstr/hrbrthemes/branch/master/graph/badge.svg" /></a> <a href="https://travis-ci.org/hrbrmstr/hrbrthemes"><img src="https://camo.githubusercontent.com/fda0221c047ddd39596492a6abc784e793554e52/68747470733a2f2f7472617669732d63692e6f72672f687262726d7374722f687262727468656d65732e7376673f6272616e63683d6d6173746572" alt="Travis-CI Build Status" data-canonical-src="https://travis-ci.org/hrbrmstr/hrbrthemes.svg?branch=master" /></a> <a href="https://cran.r-project.org/package=hrbrthemes"><img src="https://camo.githubusercontent.com/b4fb8cdec4db2055533cb5134589b41265968094/687474703a2f2f7777772e722d706b672e6f72672f6261646765732f76657273696f6e2f687262727468656d6573" alt="CRAN\_Status\_Badge" data-canonical-src="http://www.r-pkg.org/badges/version/hrbrthemes" /></a> <a href="https://camo.githubusercontent.com/35fe56d7b0ad485185a0868aa00bca0f9b243b2b/687474703a2f2f6372616e6c6f67732e722d706b672e6f72672f6261646765732f6772616e642d746f74616c2f687262727468656d6573" target="_blank"><img src="https://camo.githubusercontent.com/35fe56d7b0ad485185a0868aa00bca0f9b243b2b/687474703a2f2f6372616e6c6f67732e722d706b672e6f72672f6261646765732f6772616e642d746f74616c2f687262727468656d6573" alt="downloads" data-canonical-src="http://cranlogs.r-pkg.org/badges/grand-total/hrbrthemes" /></a> <a href="https://gist.github.com/hrbrmstr/be2f2c14fd78cac24697"></a>
 
 <hr />
 
