@@ -176,4 +176,4 @@ yst_is_cornerstone:
 
 소스코드: <em><a href="https://github.com/ismayc/moderndiver-book.git/">GitHub 소스코드</a></em>
 
-출처: <em><a href="https://www.r-bloggers.com/moderndive-a-free-introduction-to-statistics-and-data-science-with-r/">ModernDive: A free introduction to statistics and data science with R | R-bloggers</a></em>
+출처: <em>ModernDive: A free introduction to statistics and data science with R | R-bloggers</em>
