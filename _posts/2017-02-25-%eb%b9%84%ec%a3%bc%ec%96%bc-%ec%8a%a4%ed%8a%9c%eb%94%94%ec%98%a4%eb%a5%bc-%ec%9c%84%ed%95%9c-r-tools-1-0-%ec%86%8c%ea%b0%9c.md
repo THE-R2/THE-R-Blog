@@ -181,15 +181,19 @@ After more than a year in preview <a href="http://microsoft.github.io/RTVS-docs
 &nbsp;
 
 <img class="alignnone size-full" src="http://revolution-computing.typepad.com/.a/6a010534b1db25970b01b7c8d95a55970b-800wi" alt="" />
+
 <blockquote>Preview: R Tools for Visual Studio 1.0
 
 &nbsp;</blockquote>
+
 We'll cover the features in detail with the general availability release of RTVS 1.0, but in summary the new features include:
+
 <ul>
- 	<li><a href="http://microsoft.github.io/RTVS-docs/remote-execution.html" target="_blank" rel="nofollow">Remote Execution</a>: type R code in your local RTVS instance, but have the computations performed on a remote R server. You can also switch between local and remote workspaces at will.</li>
- 	<li><a href="https://microsoft.github.io/RTVS-docs/sqlserver.html" target="_blank" rel="nofollow">SQL Server Integration</a>: work with database connections and SQL queries, and create stored procedures with embedded R code.</li>
- 	<li><a href="https://microsoft.github.io/RTVS-docs/plotting.html" target="_blank" rel="nofollow">Enhanced R Graphics Support</a>: multiple floating and dockable plot windows, each with plot history.</li>
+    <li><a href="http://microsoft.github.io/RTVS-docs/remote-execution.html" target="_blank" rel="nofollow">Remote Execution</a>: type R code in your local RTVS instance, but have the computations performed on a remote R server. You can also switch between local and remote workspaces at will.</li>
+    <li><a href="https://microsoft.github.io/RTVS-docs/sqlserver.html" target="_blank" rel="nofollow">SQL Server Integration</a>: work with database connections and SQL queries, and create stored procedures with embedded R code.</li>
+    <li><a href="https://microsoft.github.io/RTVS-docs/plotting.html" target="_blank" rel="nofollow">Enhanced R Graphics Support</a>: multiple floating and dockable plot windows, each with plot history.</li>
 </ul>
+
 RTVS works with all flavours of R on Windows: CRAN R, Microsoft R Open, and Microsoft R Client &amp; Server. It requires Visual Studio 2015 (including the free Community edition). The RTVS team welcomes your feedback: you can report issues or offer suggestions via the <a href="https://github.com/Microsoft/RTVS" target="_blank" rel="nofollow">RTVS Github repository</a>. To get started with RTVS, follow the link below.
 
 R Tools for Visual Studio: <a href="http://microsoft.github.io/RTVS-docs/" target="_blank" rel="nofollow">Welcome to R Tools for Visual Studio Preview!</a>
