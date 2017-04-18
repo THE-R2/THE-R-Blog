@@ -12,10 +12,24 @@ published: true
 inline_featured_image:
   - "0"
 avada_post_views_count:
-  - "1"
+  - "26"
+scc_share_count_google+:
+  - "0"
+scc_share_count_facebook:
+  - "-1"
+scc_share_count_pocket:
+  - "0"
+scc_share_count_hatebu:
+  - "0"
+scc_share_count_crawldate:
+  - 2017/04/18 08:57:01
+scc_share_count_total:
+  - "0"
+yst_is_cornerstone:
+  - ""
 ---
 오늘 저는 세계 공용어 통계 분석 자료를 분석하고 싶습니다.
 
 <blockquote>Today, I want to share my analysis of the World Gender Statistics dataset. Last week I already introduced my Shiny app, where you can explore 160 measurements for 164 countries over 56 years. This week I’ve included a statistical analysis of these countries and measurements and put some finishing touches on the app.</blockquote>
 
-<p>소스: <em><a href="https://www.r-bloggers.com/scratching-the-surface-of-gender-biases/">Scratching the Surface of Gender Biases | R-bloggers</a></em></p>
+소스: <em>Scratching the Surface of Gender Biases | R-bloggers</em>
