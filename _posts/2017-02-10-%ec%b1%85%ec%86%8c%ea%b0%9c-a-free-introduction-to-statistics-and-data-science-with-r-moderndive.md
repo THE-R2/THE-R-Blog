@@ -10,23 +10,13 @@ published: true
 inline_featured_image:
   - "0"
 avada_post_views_count:
-  - "40"
-scc_share_count_google+:
-  - "0"
-scc_share_count_facebook:
-  - "-1"
-scc_share_count_pocket:
-  - "0"
-scc_share_count_hatebu:
-  - "0"
-scc_share_count_crawldate:
-  - 2017/03/24 10:09:22
-scc_share_count_total:
-  - "0"
+  - "53"
 swp_cache_timestamp:
   - "413147"
 slide_template:
   - default
+fusion_builder_status:
+  - ""
 sbg_selected_sidebar:
   - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_replacement:
@@ -167,10 +157,22 @@ pyre_page_title_bar_bg_full:
   - default
 pyre_page_title_bg_parallax:
   - default
-fusion_builder_status:
+scc_share_count_google+:
+  - "0"
+scc_share_count_facebook:
+  - "-1"
+scc_share_count_pocket:
+  - "0"
+scc_share_count_hatebu:
+  - "0"
+scc_share_count_crawldate:
+  - 2017/04/18 08:56:58
+scc_share_count_total:
+  - "0"
+yst_is_cornerstone:
   - ""
 ---
-<a href="https://www.r-bloggers.com/moderndive-a-free-introduction-to-statistics-and-data-science-with-r/?utm_source=feedburner&amp;utm_medium=email&amp;utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29"><img class="alignnone size-full" src="http://revolution-computing.typepad.com/.a/6a010534b1db25970b01b8d25e47d2970c-800wi" alt="" /></a>
+<img class="alignnone size-full" src="http://revolution-computing.typepad.com/.a/6a010534b1db25970b01b8d25e47d2970c-800wi" alt="" />
 
 소스코드: <em><a href="https://github.com/ismayc/moderndiver-book.git/">GitHub 소스코드</a></em>
 
