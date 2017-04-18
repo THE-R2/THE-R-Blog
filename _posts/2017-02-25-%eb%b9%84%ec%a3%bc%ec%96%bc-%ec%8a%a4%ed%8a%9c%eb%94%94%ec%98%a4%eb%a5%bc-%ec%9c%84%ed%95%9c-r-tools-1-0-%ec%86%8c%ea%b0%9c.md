@@ -12,9 +12,153 @@ published: true
 inline_featured_image:
   - "0"
 avada_post_views_count:
-  - "23"
+  - "36"
 swp_cache_timestamp:
   - "413331"
+slide_template:
+  - default
+sbg_selected_sidebar:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+sbg_selected_sidebar_2:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_2_replacement:
+  - 'a:1:{i:0;s:0:"";}'
+pyre_show_first_featured_image:
+  - 'no'
+pyre_fimg_width:
+  - ""
+pyre_fimg_height:
+  - ""
+pyre_portfolio_width_100:
+  - default
+pyre_video:
+  - ""
+pyre_image_rollover_icons:
+  - default
+pyre_link_icon_url:
+  - ""
+pyre_post_links_target:
+  - 'no'
+pyre_related_posts:
+  - default
+pyre_share_box:
+  - default
+pyre_post_pagination:
+  - default
+pyre_author_info:
+  - default
+pyre_post_meta:
+  - default
+pyre_post_comments:
+  - default
+pyre_main_top_padding:
+  - ""
+pyre_main_bottom_padding:
+  - ""
+pyre_hundredp_padding:
+  - ""
+pyre_slider_type:
+  - 'no'
+pyre_slider:
+  - "0"
+pyre_wooslider:
+  - "0"
+pyre_revslider:
+  - "0"
+pyre_elasticslider:
+  - "0"
+pyre_slider_position:
+  - default
+pyre_avada_rev_styles:
+  - default
+pyre_fallback:
+  - ""
+pyre_demo_slider:
+  - ""
+pyre_display_header:
+  - 'yes'
+pyre_header_100_width:
+  - default
+pyre_header_bg_color:
+  - ""
+pyre_header_bg_opacity:
+  - ""
+pyre_header_bg:
+  - ""
+pyre_header_bg_full:
+  - 'no'
+pyre_header_bg_repeat:
+  - repeat
+pyre_displayed_menu:
+  - default
+pyre_display_footer:
+  - default
+pyre_display_copyright:
+  - default
+pyre_footer_100_width:
+  - default
+pyre_sidebar_position:
+  - default
+pyre_sidebar_bg_color:
+  - ""
+pyre_page_bg_layout:
+  - default
+pyre_page_bg_color:
+  - ""
+pyre_page_bg:
+  - ""
+pyre_page_bg_full:
+  - 'no'
+pyre_page_bg_repeat:
+  - repeat
+pyre_wide_page_bg_color:
+  - ""
+pyre_wide_page_bg:
+  - ""
+pyre_wide_page_bg_full:
+  - 'no'
+pyre_wide_page_bg_repeat:
+  - repeat
+pyre_page_title:
+  - default
+pyre_page_title_breadcrumbs_search_bar:
+  - default
+pyre_page_title_text:
+  - default
+pyre_page_title_text_alignment:
+  - default
+pyre_page_title_custom_text:
+  - ""
+pyre_page_title_text_size:
+  - ""
+pyre_page_title_custom_subheader:
+  - ""
+pyre_page_title_custom_subheader_text_size:
+  - ""
+pyre_page_title_font_color:
+  - ""
+pyre_page_title_100_width:
+  - default
+pyre_page_title_height:
+  - ""
+pyre_page_title_mobile_height:
+  - ""
+pyre_page_title_bar_bg_color:
+  - ""
+pyre_page_title_bar_borders_color:
+  - ""
+pyre_page_title_bar_bg:
+  - ""
+pyre_page_title_bar_bg_retina:
+  - ""
+pyre_page_title_bar_bg_full:
+  - default
+pyre_page_title_bg_parallax:
+  - default
+fusion_builder_status:
+  - ""
 scc_share_count_google+:
   - "0"
 scc_share_count_facebook:
@@ -24,25 +168,19 @@ scc_share_count_pocket:
 scc_share_count_hatebu:
   - "0"
 scc_share_count_crawldate:
-  - 2017/03/12 11:45:57
+  - 2017/04/18 08:56:56
 scc_share_count_total:
   - "0"
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:0:"";}'
-sbg_selected_sidebar_2:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_2_replacement:
-  - 'a:1:{i:0;s:0:"";}'
-slide_template:
-  - default
+dsq_thread_id:
+  - "5707873075"
+yst_is_cornerstone:
+  - ""
 ---
 After more than a year in preview <a href="http://microsoft.github.io/RTVS-docs/" target="_blank" rel="nofollow">R Tools for Visual Studio</a>, the open-source extension to the Visual Studio IDE for R programming, is nearing its official release. RTVS Release Candidate 1 is <a href="http://microsoft.github.io/RTVS-docs/installation.html" target="_blank" rel="nofollow">now available for download</a>, giving you the opportunity to try out the new features ahead of the official announcement.
 
 &nbsp;
 
-<a href="https://www.r-bloggers.com/preview-r-tools-for-visual-studio-1-0/"><img class="alignnone size-full" src="http://revolution-computing.typepad.com/.a/6a010534b1db25970b01b7c8d95a55970b-800wi" alt="" /></a>
+<img class="alignnone size-full" src="http://revolution-computing.typepad.com/.a/6a010534b1db25970b01b7c8d95a55970b-800wi" alt="" />
 <blockquote>Preview: R Tools for Visual Studio 1.0
 
 &nbsp;</blockquote>
@@ -58,4 +196,4 @@ R Tools for Visual Studio: <a href="http://microsoft.github.io/RTVS-docs/" targe
 
 &nbsp;
 
-소스: <em><a href="https://www.r-bloggers.com/preview-r-tools-for-visual-studio-1-0/">Preview: R Tools for Visual Studio 1.0 | R-bloggers</a></em>
+소스: <em>Preview: R Tools for Visual Studio 1.0 | R-bloggers</em>
